@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/jubilant-engine/static/css/main.c1bacff3.css",
-    "main.js": "/jubilant-engine/static/js/main.1e5353f8.js",
-    "static/media/ukrainereliefhand.jpg": "/jubilant-engine/static/media/ukrainereliefhand.d13682e78fcda29f76e0.jpg",
-    "static/media/ukrainewoman.jpeg": "/jubilant-engine/static/media/ukrainewoman.4ec6df765e95e50eeef6.jpeg",
-    "static/media/googleturtle.svg": "/jubilant-engine/static/media/googleturtle.278f2a5a4e9d60a0943280129751a8cb.svg",
-    "index.html": "/jubilant-engine/index.html",
-    "main.c1bacff3.css.map": "/jubilant-engine/static/css/main.c1bacff3.css.map",
-    "main.1e5353f8.js.map": "/jubilant-engine/static/js/main.1e5353f8.js.map"
+    "main.css": "/static/css/main.c1bacff3.css",
+    "main.js": "/static/js/main.21ff5ffa.js",
+    "static/media/ukrainereliefhand.jpg": "/static/media/ukrainereliefhand.d13682e78fcda29f76e0.jpg",
+    "static/media/ukrainewoman.jpeg": "/static/media/ukrainewoman.4ec6df765e95e50eeef6.jpeg",
+    "static/media/googleturtle.svg": "/static/media/googleturtle.278f2a5a4e9d60a0943280129751a8cb.svg",
+    "index.html": "/index.html",
+    "main.c1bacff3.css.map": "/static/css/main.c1bacff3.css.map",
+    "main.21ff5ffa.js.map": "/static/js/main.21ff5ffa.js.map"
   },
   "entrypoints": [
     "static/css/main.c1bacff3.css",
-    "static/js/main.1e5353f8.js"
+    "static/js/main.21ff5ffa.js"
   ]
 }
