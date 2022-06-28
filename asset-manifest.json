@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/static/css/main.c1bacff3.css",
-    "main.js": "/static/js/main.d5149858.js",
+    "main.js": "/static/js/main.f2deda19.js",
     "static/media/ukrainereliefhand.jpg": "/static/media/ukrainereliefhand.d13682e78fcda29f76e0.jpg",
     "static/media/ukrainewoman.jpeg": "/static/media/ukrainewoman.4ec6df765e95e50eeef6.jpeg",
     "static/media/googleturtle.svg": "/static/media/googleturtle.278f2a5a4e9d60a0943280129751a8cb.svg",
     "index.html": "/index.html",
     "main.c1bacff3.css.map": "/static/css/main.c1bacff3.css.map",
-    "main.d5149858.js.map": "/static/js/main.d5149858.js.map"
+    "main.f2deda19.js.map": "/static/js/main.f2deda19.js.map"
   },
   "entrypoints": [
     "static/css/main.c1bacff3.css",
-    "static/js/main.d5149858.js"
+    "static/js/main.f2deda19.js"
   ]
 }
